@@ -12,3 +12,13 @@ Received chunk:
 14:17:39 - Found 0 errors. Watching for file changes.
 Received chunk: [36mChange detected[39m docs/index.html
 Received chunk: [36mChange detected[39m docs/index.html
+Received chunk: [36mChange detected[39m docs/index.html
+Received chunk: [36mChange detected[39m docs/index.scss
+Received chunk: [36mChange detected[39m docs/index.ts
+Received chunk: [36mChange detected[39m docs/javascript/index.js
+Received chunk: [35mCSS change detected[39m docs/styles/styles.css
+Received chunk: [36mChange detected[39m docs/styles/styles.css.map
+Received chunk: [36mChange detected[39m docs/styles/styles.css.map
+Received chunk: [2023-04-17 14:18] Compiled docs/index.scss to docs/styles/styles.css.
+Received chunk: [35mCSS change detected[39m docs/styles/styles.css
+Received chunk: [36mChange detected[39m docs/index.html
