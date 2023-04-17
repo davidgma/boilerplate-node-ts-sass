@@ -22,3 +22,14 @@ Received chunk: [36mChange detected[39m docs/styles/styles.css.map
 Received chunk: [2023-04-17 14:18] Compiled docs/index.scss to docs/styles/styles.css.
 Received chunk: [35mCSS change detected[39m docs/styles/styles.css
 Received chunk: [36mChange detected[39m docs/index.html
+Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
+
+Received chunk: [2023-04-17 20:49] Compiled docs/index.scss to docs/styles/styles.css.
+Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/tsc
+Received chunk: [32mServing "docs" at http://127.0.0.1:8080[39m
+Received chunk: [36mReady for changes[39m
+Received chunk: cReceived chunk: 20:49:28 - Starting compilation in watch mode...
+
+Received chunk: [36mChange detected[39m docs/javascript/index.js
+Received chunk: 
+20:49:29 - Found 0 errors. Watching for file changes.
