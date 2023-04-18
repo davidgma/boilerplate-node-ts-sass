@@ -45,6 +45,7 @@ body {
 }
 .feature p {
   font-size: 0.9rem;
+  max-width: 500px;
 }
 @media screen and (min-width: 800px) {
   .feature p {
