@@ -1,80 +1,15 @@
-Log file started at 17:23:40.Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
+Log file started at 17:42:42.Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
 
-Received chunk: cReceived chunk: 17:23:41 - Starting compilation in watch mode...
+Received chunk: cReceived chunk: 17:42:44 - Starting compilation in watch mode...
 
 Received chunk: 
-17:23:42 - Found 0 errors. Watching for file changes.
+17:42:44 - Found 0 errors. Watching for file changes.
 Received chunk: 
-  VITE v4.2.2  ready in 1521 ms
+  VITE v4.2.2  ready in 1772 ms
 
 Received chunk:   ➜  Local:   http://localhost:5173/
 Received chunk:   ➜  Network: use --host to expose
-Received chunk: [2023-04-18 17:27] Compiled docs/index.scss to docs/styles/styles.css.
-Received chunk: 17:27:28 [vite] hmr update /styles/styles.css?direct
-Received chunk: [2023-04-18 17:27] Compiled docs/index.scss to docs/styles/styles.css.
-Received chunk: 17:27:36 [vite] hmr update /styles/styles.css?direct
-Received chunk: cReceived chunk: 17:28:00 - File change detected. Starting incremental compilation...
-
-Received chunk: 
-17:28:00 - Found 0 errors. Watching for file changes.
-Received chunk: 17:28:00 [vite] page reload javascript/index.js
-Received chunk: cReceived chunk: 17:28:14 - File change detected. Starting incremental compilation...
-
-Received chunk: 17:28:14 [vite] page reload javascript/index.js
-Received chunk: 
-17:28:14 - Found 0 errors. Watching for file changes.
-Received chunk: cReceived chunk: 17:28:17 - File change detected. Starting incremental compilation...
-
-Received chunk: 
-17:28:17 - Found 0 errors. Watching for file changes.
-Received chunk: 17:28:17 [vite] page reload javascript/index.js
-Received chunk: cReceived chunk: 17:28:22 - File change detected. Starting incremental compilation...
-
-Received chunk: 17:28:22 [vite] page reload javascript/index.js
-Received chunk: 
-17:28:22 - Found 0 errors. Watching for file changes.
-Received chunk: cReceived chunk: 17:28:26 - File change detected. Starting incremental compilation...
-
-Received chunk: 17:28:26 [vite] page reload javascript/index.js
-Received chunk: 
-17:28:26 - Found 0 errors. Watching for file changes.
-Received chunk: [2023-04-18 17:28] Compiled docs/index.scss to docs/styles/styles.css.
-Received chunk: 17:28:49 [vite] hmr update /styles/styles.css?direct
-Received chunk: 17:28:51 [vite] hmr update /styles/styles.css?direct
-Received chunk: 17:28:52 [vite] hmr update /styles/styles.css?direct
-Received chunk: 17:28:53 [vite] hmr update /styles/styles.css?direct
-Received chunk: 17:28:54 [vite] hmr update /styles/styles.css?direct
-Received chunk: [2023-04-18 17:28] Compiled docs/index.scss to docs/styles/styles.css.
-Received chunk: 17:28:58 [vite] hmr update /styles/styles.css?direct
-Received chunk: [2023-04-18 17:29] Compiled docs/index.scss to docs/styles/styles.css.
-Received chunk: 17:29:03 [vite] hmr update /styles/styles.css?direct
-Received chunk: 17:30:56 [vite] page reload index.html
-Received chunk: 17:30:56 [vite] page reload index.html
-Received chunk: 17:30:59 [vite] page reload index.html
-Received chunk: 17:31:01 [vite] page reload index.html
-Received chunk: 17:31:08 [vite] page reload index.html
-Received chunk: 17:31:10 [vite] page reload index.html
-Received chunk: 17:31:12 [vite] page reload index.html
-Received chunk: 17:31:12 [vite] page reload index.html
-Received chunk: 17:31:20 [vite] page reload index.html
-Received chunk: 17:31:22 [vite] page reload index.html
-Received chunk: 17:31:23 [vite] page reload index.html
-Received chunk: 17:31:26 [vite] page reload index.html
-Received chunk: 17:32:26 [vite] page reload index.html
-Received chunk: 17:32:28 [vite] page reload index.html
-Received chunk: 17:32:30 [vite] page reload index.html
-Received chunk: 17:32:34 [vite] page reload index.html
-Received chunk: 17:32:40 [vite] page reload index.html
-Received chunk: 17:32:44 [vite] page reload index.html
-Received chunk: 17:32:46 [vite] page reload index.html
-Received chunk: 17:33:32 [vite] page reload index.html
-Received chunk: 17:35:45 [vite] page reload index.html
-Received chunk: cReceived chunk: 17:41:33 - Starting compilation in watch mode...
-
-Received chunk: 
-17:41:33 - Found 0 errors. Watching for file changes.
-Received chunk: 
-  VITE v4.2.2  ready in 1383 ms
-
-Received chunk:   ➜  Local:   http://localhost:5173/
-Received chunk:   ➜  Network: use --host to expose
+Received chunk: [2023-04-18 17:42] Compiled docs/index.scss to docs/styles/styles.css.
+Received chunk: 17:42:48 [vite] hmr update /styles/styles.css?direct
+Received chunk: 17:42:53 [vite] hmr update /styles/styles.css?direct
+Received chunk: [2023-04-18 17:42] Compiled docs/index.scss to docs/styles/styles.css.
