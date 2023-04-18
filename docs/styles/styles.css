@@ -12,9 +12,39 @@ body {
   align-items: center;
 }
 
-h1 {
+.header h1 {
   color: blue;
-  font-size: 2rem;
+  font-size: 1.6rem;
+}
+@media screen and (min-width: 800px) {
+  .header h1 {
+    font-size: 3rem;
+  }
+}
+
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+
+.feature {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  flex-direction: column;
+  align-items: center;
+}
+@media screen and (min-width: 800px) {
+  .feature {
+    max-width: 30%;
+  }
+}
+
+.icons {
+  height: 50px;
 }
 
 .myClass {
@@ -33,6 +63,20 @@ footer a {
 .boiler {
   font-size: 5rem;
   color: blue;
+}
+
+.waving {
+  font-size: 3rem;
+  color: green;
+}
+
+.typescript-output {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  gap: 15px;
+  padding: 0.5rem;
 }
 
 /*# sourceMappingURL=styles.css.map */
