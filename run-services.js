@@ -8,7 +8,7 @@ const logFile = 'log.txt';
 try {
   writeFile(
     logFile,
-    'Log file started at ' + new Date().toLocaleTimeString() + '.\n'
+    'Log file started at ' + new Date().toLocaleTimeString() + '.'
   );
 } catch (err) {
   console.log(err);
@@ -16,7 +16,7 @@ try {
 
 async function localLog(message) {
   try {
-    await appendFile(logFile, message);
+    await appendFile(logFile, message + '\n');
   } catch (err) {
     console.log(err);
   }
