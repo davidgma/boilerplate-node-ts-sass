@@ -90,9 +90,10 @@ async function run() {
   execute(lsCommand);
 
   // Set off typescript compiler
-  const tscPath = await getExecutablePath('which tsc');
-  const tscCommand =
-    'node ' + tscPath.trim() + ' --watch ./docs/*.ts -outDir ./docs/javascript';
+  //const tscPath = await getExecutablePath('which tsc');
+  // const tscCommand =
+  //   'node ' + tscPath.trim() + ' --watch ./docs/*.ts -outDir ./docs/javascript';
+  const tscCommand = 'tsc ';
   console.log('tscCommand: ' + tscCommand);
   execute(tscCommand);
 }
