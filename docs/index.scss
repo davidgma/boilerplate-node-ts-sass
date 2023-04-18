@@ -8,8 +8,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 h1 {
   color: blue;
+  font-size: 2rem;
 }
 
 .myClass {
@@ -30,5 +37,6 @@ footer {
   'opsz' 48
 }
 .boiler {
-  font-size: 4rem;
+  font-size: 5rem;
+  color: blue;
 }
