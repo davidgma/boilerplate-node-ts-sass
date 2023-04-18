@@ -8,7 +8,7 @@ const logFile = 'log.txt';
 try {
   writeFile(
     logFile,
-    'Log file started at ' + new Date().toLocaleTimeString() + '.'
+    'Log file started at ' + new Date().toLocaleTimeString() + '.\n'
   );
 } catch (err) {
   console.log(err);
