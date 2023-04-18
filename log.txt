@@ -10,3 +10,21 @@ Executing command sass --watch ./docs/*.scss ./docs/styles/styles.cssExecuting c
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
+c
+17:49:03 - Starting compilation in watch mode...
+
+
+Sass is watching for changes. Press Ctrl-C to stop.
+
+
+
+17:49:04 - Found 0 errors. Watching for file changes.
+
+
+  VITE v4.2.2  ready in 1670 ms
+
+
+  ➜  Local:   http://localhost:5173/
+
+  ➜  Network: use --host to expose
+

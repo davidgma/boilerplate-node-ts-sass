@@ -16,7 +16,7 @@ try {
 
 async function localLog(message) {
   try {
-    await appendFile(logFile, message + '\n');
+    await appendFile(logFile, message + '\r\n');
   } catch (err) {
     console.log(err);
   }
