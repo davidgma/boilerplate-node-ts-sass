@@ -4,5 +4,5 @@ onload = (event) => {
   console.log('page loaded');
   const elements = document.getElementsByClassName('myClass');
   const element = elements[0];
-  element.innerHTML = 'Hello from TypeScript';
+  element.innerHTML = 'Hello from TypeScript (this hello message is generated programatically from index.ts)';
 };
