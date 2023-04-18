@@ -3,22 +3,27 @@ import { exec } from 'node:child_process';
 import { writeFile, appendFile } from 'node:fs/promises';
 
 const logFile = 'log.txt';
+const debug = false;
 
 // Start log file, overwriting any previous file
-try {
-  writeFile(
-    logFile,
-    'Log file started at ' + new Date().toLocaleTimeString() + '.'
-  );
-} catch (err) {
-  console.log(err);
+if (debug) {
+  try {
+    writeFile(
+      logFile,
+      'Log file started at ' + new Date().toLocaleTimeString() + '.'
+    );
+  } catch (err) {
+    console.log(err);
+  }
 }
 
 async function localLog(message) {
-  try {
-    await appendFile(logFile, message + '\r\n');
-  } catch (err) {
-    console.log(err);
+  if (debug) {
+    try {
+      await appendFile(logFile, message + '\r\n');
+    } catch (err) {
+      console.log(err);
+    }
   }
 }
 localLog('');
