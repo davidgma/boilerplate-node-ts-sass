@@ -5,10 +5,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "chmod a+x run-services.js && ./run-services.js"
   },
-  "dependencies": {
-    "live-server": "^1.2.2",
+  "dependencies": {},
+  "type": "module",
+  "devDependencies": {
     "sass": "^1.62.0",
-    "typescript": "^5.0.4"
-  },
-  "type": "module"
+    "typescript": "^5.0.4",
+    "vite": "^4.2.2"
+  }
 }
