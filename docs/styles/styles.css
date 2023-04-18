@@ -43,7 +43,6 @@ body {
     max-width: 30%;
   }
 }
-
 .feature p {
   font-size: 0.9rem;
 }
@@ -51,6 +50,14 @@ body {
   .feature p {
     font-size: 1.3rem;
   }
+}
+.feature p a {
+  text-decoration: none;
+  color: blue;
+}
+.feature p a:hover {
+  background: lightgray;
+  border-radius: 5px;
 }
 
 .icons {

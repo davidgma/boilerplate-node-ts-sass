@@ -41,14 +41,27 @@ body {
   @media screen and (min-width: 800px) {
     max-width: 30%;
   }
-}
 
-.feature p {
-  font-size: .9rem;
-  @media screen and (min-width: 800px) {
-    font-size: 1.3rem;;
+  & p {
+    font-size: .9rem;
+    @media screen and (min-width: 800px) {
+      font-size: 1.3rem;;
+    }
+
+    & a {
+      text-decoration: none;
+      color: blue;
+
+      &:hover {
+        background: lightgray;
+        border-radius: 5px;
+      }
+    }
+
   }
 }
+
+
 
 .icons {
   height: 50px;
