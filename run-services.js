@@ -93,7 +93,7 @@ async function run() {
   //const tscPath = await getExecutablePath('which tsc');
   // const tscCommand =
   //   'node ' + tscPath.trim() + ' --watch ./docs/*.ts -outDir ./docs/javascript';
-  const tscCommand = 'tsc ';
+  const tscCommand = 'tsc --watch';
   console.log('tscCommand: ' + tscCommand);
   execute(tscCommand);
 }

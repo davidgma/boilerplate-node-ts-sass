@@ -1,14 +1,9 @@
-Log file started at 16:42:39.Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/sass
+Log file started at 16:58:00.Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/sass
 Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/live-server
 Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
 
-Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/tsc
 Received chunk: [32mServing "docs" at http://127.0.0.1:8080[39m
 Received chunk: [36mReady for changes[39m
-Received chunk: cReceived chunk: 16:42:41 - Starting compilation in watch mode...
-
 Received chunk: [36mChange detected[39m docs/javascript/index.js
-Received chunk: 
-16:42:42 - Found 0 errors. Watching for file changes.
-Received chunk: [36mChange detected[39m docs/javascript
-Received chunk: [36mChange detected[39m docs/javascript/index.js
+Received chunk: [36mChange detected[39m docs/index.ts
+Received chunk: [36mChange detected[39m docs/index.ts
