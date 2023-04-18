@@ -96,6 +96,9 @@ async function run() {
   const tscCommand = 'tsc --watch';
   console.log('tscCommand: ' + tscCommand);
   execute(tscCommand);
+
+  // set off vite
+  execute('vite docs');
 }
 
 run();

@@ -1,2 +1,7 @@
-Log file started at 17:03:02.Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/sass
-Received chunk: live-server not found
+Log file started at 17:04:44.Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/sass
+Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
+
+Received chunk: cReceived chunk: 17:04:45 - Starting compilation in watch mode...
+
+Received chunk: 
+17:04:46 - Found 0 errors. Watching for file changes.
