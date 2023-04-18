@@ -69,3 +69,12 @@ Received chunk: 17:32:44 [vite] page reload index.html
 Received chunk: 17:32:46 [vite] page reload index.html
 Received chunk: 17:33:32 [vite] page reload index.html
 Received chunk: 17:35:45 [vite] page reload index.html
+Received chunk: cReceived chunk: 17:41:33 - Starting compilation in watch mode...
+
+Received chunk: 
+17:41:33 - Found 0 errors. Watching for file changes.
+Received chunk: 
+  VITE v4.2.2  ready in 1383 ms
+
+Received chunk:   ➜  Local:   http://localhost:5173/
+Received chunk:   ➜  Network: use --host to expose

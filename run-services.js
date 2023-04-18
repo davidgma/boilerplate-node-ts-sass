@@ -76,7 +76,7 @@ async function cleanUp() {
 
 async function run() {
   // Set off sass
-  //execute('sass --watch ./docs/*.scss ./docs/styles/styles.css');
+  execute('sass --watch ./docs/*.scss ./docs/styles/styles.css');
 
   // Set off typescript compiler
   const tscCommand = 'tsc --watch';
