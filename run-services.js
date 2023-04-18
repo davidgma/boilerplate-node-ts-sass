@@ -47,7 +47,8 @@ async function execute(command, arg) {
   return promise;
 }
 
-async function getExecutablePath(command) {
+// e.g. getExecutableResult('which sass');
+async function getExecutableResult(command) {
   const promise = new Promise((resolve, reject) => {
     const child = exec(command, null, (error, stdout, stderr) => {
       if (error) {
@@ -75,25 +76,9 @@ async function cleanUp() {
 
 async function run() {
   // Set off sass
-  // const sassPath = await getExecutablePath('which sass');
-  // const sassCommand =
-  //   'node ' +
-  //   sassPath.trim() +
-  //   ' --watch ./docs/*.scss ./docs/styles/styles.css';
-  // console.log('sassCommand: ' + sassCommand);
-  // execute(sassCommand);
   execute('sass --watch ./docs/*.scss ./docs/styles/styles.css');
 
-  // Set off live server
-  // const lsPath = await getExecutablePath('which live-server');
-  // const lsCommand = 'node ' + lsPath.trim() + ' docs';
-  // console.log('lsCommand: ' + lsCommand);
-  // execute(lsCommand);
-
   // Set off typescript compiler
-  //const tscPath = await getExecutablePath('which tsc');
-  // const tscCommand =
-  //   'node ' + tscPath.trim() + ' --watch ./docs/*.ts -outDir ./docs/javascript';
   const tscCommand = 'tsc --watch';
   console.log('tscCommand: ' + tscCommand);
   execute(tscCommand);

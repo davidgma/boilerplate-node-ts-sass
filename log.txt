@@ -1,42 +1,31 @@
-Log file started at 17:16:47.Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/sass
-Received chunk: cReceived chunk: 17:16:48 - Starting compilation in watch mode...
+Log file started at 17:20:06.Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
 
-Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
+Received chunk: cReceived chunk: 17:20:07 - Starting compilation in watch mode...
 
 Received chunk: 
-17:16:49 - Found 0 errors. Watching for file changes.
+17:20:08 - Found 0 errors. Watching for file changes.
 Received chunk: 
-  VITE v4.2.2  ready in 1723 ms
+  VITE v4.2.2  ready in 1701 ms
 
 Received chunk:   ➜  Local:   http://localhost:5173/
 Received chunk:   ➜  Network: use --host to expose
-Received chunk: cReceived chunk: 17:17:02 - File change detected. Starting incremental compilation...
+Received chunk: cReceived chunk: 17:20:18 - File change detected. Starting incremental compilation...
+
+Received chunk: 17:20:18 [vite] page reload javascript/index.js
+Received chunk: 
+17:20:18 - Found 0 errors. Watching for file changes.
+Received chunk: cReceived chunk: 17:20:22 - File change detected. Starting incremental compilation...
 
 Received chunk: 
-17:17:02 - Found 0 errors. Watching for file changes.
-Received chunk: 17:17:02 [vite] page reload javascript/index.js
-Received chunk: cReceived chunk: 17:17:07 - File change detected. Starting incremental compilation...
-
-Received chunk: 17:17:07 [vite] page reload javascript/index.js
-Received chunk: 
-17:17:07 - Found 0 errors. Watching for file changes.
-Received chunk: cReceived chunk: 17:17:29 - File change detected. Starting incremental compilation...
+17:20:22 - Found 0 errors. Watching for file changes.
+Received chunk: 17:20:22 [vite] page reload javascript/index.js
+Received chunk: cReceived chunk: 17:23:17 - File change detected. Starting incremental compilation...
 
 Received chunk: 
-17:17:29 - Found 0 errors. Watching for file changes.
-Received chunk: 17:17:29 [vite] page reload javascript/index.js
-Received chunk: cReceived chunk: 17:17:31 - File change detected. Starting incremental compilation...
+17:23:17 - Found 0 errors. Watching for file changes.
+Received chunk: 17:23:17 [vite] page reload javascript/index.js
+Received chunk: cReceived chunk: 17:23:19 - File change detected. Starting incremental compilation...
 
 Received chunk: 
-17:17:31 - Found 0 errors. Watching for file changes.
-Received chunk: 17:17:31 [vite] page reload javascript/index.js
-Received chunk: cReceived chunk: 17:18:25 - File change detected. Starting incremental compilation...
-
-Received chunk: 17:18:25 [vite] page reload javascript/index.js
-Received chunk: 
-17:18:25 - Found 0 errors. Watching for file changes.
-Received chunk: cReceived chunk: 17:18:27 - File change detected. Starting incremental compilation...
-
-Received chunk: 17:18:27 [vite] page reload javascript/index.js
-Received chunk: 
-17:18:27 - Found 0 errors. Watching for file changes.
+17:23:19 - Found 0 errors. Watching for file changes.
+Received chunk: 17:23:19 [vite] page reload javascript/index.js
