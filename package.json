@@ -9,5 +9,6 @@
     "live-server": "^1.2.2",
     "sass": "^1.62.0",
     "typescript": "^5.0.4"
-  }
+  },
+  "type": "module"
 }

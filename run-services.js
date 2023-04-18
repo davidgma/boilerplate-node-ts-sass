@@ -1,12 +1,12 @@
 #!/usr/bin/env node
-const { exec } = require('node:child_process');
-const fs = require('fs/promises');
+import { exec } from 'node:child_process';
+import { writeFile, appendFile } from 'node:fs/promises';
 
 const logFile = 'log.txt';
 
 // Start log file, overwriting any previous file
 try {
-  fs.writeFile(
+  writeFile(
     logFile,
     'Log file started at ' + new Date().toLocaleTimeString() + '.'
   );
@@ -16,7 +16,7 @@ try {
 
 async function localLog(message) {
   try {
-    await fs.appendFile(logFile, message);
+    await appendFile(logFile, message);
   } catch (err) {
     console.log(err);
   }

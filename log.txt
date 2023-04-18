@@ -1,35 +1,12 @@
-Log file started at 14:17:36.Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/sass
+Log file started at 16:18:58.Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/sass
 Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/live-server
 Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
 
 Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/tsc
 Received chunk: [32mServing "docs" at http://127.0.0.1:8080[39m
 Received chunk: [36mReady for changes[39m
-Received chunk: cReceived chunk: 14:17:38 - Starting compilation in watch mode...
+Received chunk: cReceived chunk: 16:19:00 - Starting compilation in watch mode...
 
 Received chunk: [36mChange detected[39m docs/javascript/index.js
 Received chunk: 
-14:17:39 - Found 0 errors. Watching for file changes.
-Received chunk: [36mChange detected[39m docs/index.html
-Received chunk: [36mChange detected[39m docs/index.html
-Received chunk: [36mChange detected[39m docs/index.html
-Received chunk: [36mChange detected[39m docs/index.scss
-Received chunk: [36mChange detected[39m docs/index.ts
-Received chunk: [36mChange detected[39m docs/javascript/index.js
-Received chunk: [35mCSS change detected[39m docs/styles/styles.css
-Received chunk: [36mChange detected[39m docs/styles/styles.css.map
-Received chunk: [36mChange detected[39m docs/styles/styles.css.map
-Received chunk: [2023-04-17 14:18] Compiled docs/index.scss to docs/styles/styles.css.
-Received chunk: [35mCSS change detected[39m docs/styles/styles.css
-Received chunk: [36mChange detected[39m docs/index.html
-Received chunk: Sass is watching for changes. Press Ctrl-C to stop.
-
-Received chunk: [2023-04-17 20:49] Compiled docs/index.scss to docs/styles/styles.css.
-Received chunk: /home/projects/boilerplate-node-ts-sass/node_modules/.bin/tsc
-Received chunk: [32mServing "docs" at http://127.0.0.1:8080[39m
-Received chunk: [36mReady for changes[39m
-Received chunk: cReceived chunk: 20:49:28 - Starting compilation in watch mode...
-
-Received chunk: [36mChange detected[39m docs/javascript/index.js
-Received chunk: 
-20:49:29 - Found 0 errors. Watching for file changes.
+16:19:01 - Found 0 errors. Watching for file changes.
