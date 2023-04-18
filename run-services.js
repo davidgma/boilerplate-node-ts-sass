@@ -84,10 +84,10 @@ async function run() {
   execute(sassCommand);
 
   // Set off live server
-  const lsPath = await getExecutablePath('which live-server');
-  const lsCommand = 'node ' + lsPath.trim() + ' docs';
-  console.log('lsCommand: ' + lsCommand);
-  execute(lsCommand);
+  // const lsPath = await getExecutablePath('which live-server');
+  // const lsCommand = 'node ' + lsPath.trim() + ' docs';
+  // console.log('lsCommand: ' + lsCommand);
+  // execute(lsCommand);
 
   // Set off typescript compiler
   //const tscPath = await getExecutablePath('which tsc');
