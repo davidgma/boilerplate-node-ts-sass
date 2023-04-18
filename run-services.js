@@ -75,13 +75,14 @@ async function cleanUp() {
 
 async function run() {
   // Set off sass
-  const sassPath = await getExecutablePath('which sass');
-  const sassCommand =
-    'node ' +
-    sassPath.trim() +
-    ' --watch ./docs/*.scss ./docs/styles/styles.css';
-  console.log('sassCommand: ' + sassCommand);
-  execute(sassCommand);
+  // const sassPath = await getExecutablePath('which sass');
+  // const sassCommand =
+  //   'node ' +
+  //   sassPath.trim() +
+  //   ' --watch ./docs/*.scss ./docs/styles/styles.css';
+  // console.log('sassCommand: ' + sassCommand);
+  // execute(sassCommand);
+  execute('sass --watch ./docs/*.scss ./docs/styles/styles.css');
 
   // Set off live server
   // const lsPath = await getExecutablePath('which live-server');
