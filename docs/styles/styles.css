@@ -36,10 +36,20 @@ body {
   margin: auto;
   flex-direction: column;
   align-items: center;
+  padding-top: 1rem;
 }
 @media screen and (min-width: 800px) {
   .feature {
     max-width: 30%;
+  }
+}
+
+.feature p {
+  font-size: 0.9rem;
+}
+@media screen and (min-width: 800px) {
+  .feature p {
+    font-size: 1.3rem;
   }
 }
 
@@ -68,6 +78,11 @@ footer a {
 .waving {
   font-size: 3rem;
   color: green;
+}
+
+.fork {
+  font-size: 3rem;
+  color: blue;
 }
 
 .typescript-output {
